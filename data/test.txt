@@ -1,0 +1,12 @@
+00001Libellé 1               A
+00002Libellé 2               B
+00002Ceci est un test        C
+00004Cette ligne est triée   D
+00005Cette ligne est triée   E
+00009Cette ligne est la 6eme F
+00009Cette ligne est la 7eme G
+00010ceci est la 8eme ligne  H
+00010ceci est la 9eme ligne  I
+00010ceci est la 9eme ligne  J
+00010ceci est la 9eme ligne  K
+00010ceci est la 9eme ligne  L
